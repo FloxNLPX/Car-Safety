@@ -32,7 +32,7 @@ public class Login extends AppCompatActivity {
     private String username;
     private String password;
     private ProgressDialog pDialog;
-    private String login_url = "http://45.94.156.135/login.php";
+    private String login_url = "http://flox6375.000webhostapp.com/login.php";
     private SessionHandler session;
 
     @Override

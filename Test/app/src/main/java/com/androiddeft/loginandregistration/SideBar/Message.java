@@ -40,7 +40,7 @@ public class Message extends AppCompatActivity implements NavigationView.OnNavig
     DrawerLayout drawer;
     public static String temp;
 
-    private static final String URL_PRODUCTS = "http://45.94.156.135/home/floxcom/public_html/Car Safety/Api.php";
+    private static final String URL_PRODUCTS = "http://flox6375.000webhostapp.com/Api.php";
     List<Product> productList;
     RecyclerView recyclerView;
 
@@ -101,10 +101,6 @@ public class Message extends AppCompatActivity implements NavigationView.OnNavig
             case R.id.nav_home:
                 Intent h= new Intent(Message.this, Message.class);
                 startActivity(h);
-                break;
-            case R.id.nav_gallery:
-                Intent g= new Intent(Message.this, MyTickets.class);
-                startActivity(g);
                 break;
             case R.id.nav_open:
                 Intent c= new Intent(Message.this, OpenTickets.class);

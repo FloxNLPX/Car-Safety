@@ -36,7 +36,7 @@ public class Register extends AppCompatActivity {
     private String confirmPassword;
     private String fullName;
     private ProgressDialog pDialog;
-    private String register_url = "http://45.94.156.135/home/floxcom/public_html/Car Safety/register.php";
+    private String register_url = "http://flox6375.000webhostapp.com/register.php";
     private SessionHandler session;
 
     @Override

@@ -77,10 +77,6 @@ public class SideBar extends AppCompatActivity implements NavigationView.OnNavig
                 Intent h= new Intent(SideBar.this, Message.class);
                 startActivity(h);
                 break;
-            case R.id.nav_gallery:
-                Intent g= new Intent(SideBar.this, MyTickets.class);
-                startActivity(g);
-                break;
             case R.id.nav_open:
                 Intent c= new Intent(SideBar.this, OpenTickets.class);
                 startActivity(c);

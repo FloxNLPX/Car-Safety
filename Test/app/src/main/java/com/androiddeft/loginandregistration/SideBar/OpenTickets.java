@@ -82,10 +82,6 @@ public class OpenTickets extends AppCompatActivity implements NavigationView.OnN
                 Intent g= new Intent(OpenTickets.this, OpenTickets.class);
                 startActivity(g);
                 break;
-            case R.id.nav_gallery:
-                Intent c= new Intent(OpenTickets.this, MyTickets.class);
-                startActivity(c);
-                break;
         }
 
 
