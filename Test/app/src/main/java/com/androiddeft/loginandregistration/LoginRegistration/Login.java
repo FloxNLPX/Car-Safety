@@ -14,7 +14,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.androiddeft.loginandregistration.Constructor.MySingleton;
-import com.androiddeft.loginandregistration.SideBar.Message;
+import com.androiddeft.loginandregistration.Message;
 import com.androiddeft.loginandregistration.R;
 
 import org.json.JSONException;

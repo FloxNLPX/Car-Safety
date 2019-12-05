@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.androiddeft.loginandregistration.SideBar.Message"
+    tools:context="com.androiddeft.loginandregistration.Message"
     tools:openDrawer="start"
     android:background="@android:color/darker_gray">
 

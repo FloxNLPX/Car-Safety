@@ -28,7 +28,7 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name=".SideBar.Message"
+            android:name=".Message"
             android:theme ="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".SideBar.OpenTickets"

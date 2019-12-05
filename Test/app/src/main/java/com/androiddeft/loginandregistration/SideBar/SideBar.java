@@ -15,6 +15,7 @@ import android.widget.TextView;
 
 import com.androiddeft.loginandregistration.Constructor.User;
 import com.androiddeft.loginandregistration.LoginRegistration.Login;
+import com.androiddeft.loginandregistration.Message;
 import com.androiddeft.loginandregistration.R;
 import com.androiddeft.loginandregistration.LoginRegistration.SessionHandler;
 
